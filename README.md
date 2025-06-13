@@ -1,1 +1,5 @@
-# streamlit-bigdata
+# requirements
+streamlit
+pandas
+matplotlib
+seaborn
